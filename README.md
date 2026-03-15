@@ -66,6 +66,10 @@ to create a simple yet effective platform for sharing files.
     <img src="./GitHub-Actions.png" width="120" alt="GitHub Actions">
   </a>
   &nbsp;&nbsp;
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=6E0C01BEA645151B6D2884484B4FCF2B0FEA278A5B77D2EA153BFB41C22B73EB" target="_blank">
+    <img src="./Oracle-Foundations-Associate.png" width="120" alt="Oracle AI Foundations Associate">
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/0918a63b-445f-4f28-bd9f-023c7b97bf81" target="_blank">
     <img src="./AWS-Cloud-Foundations.png" width="120" alt="AWS Academy Cloud Foundations">
   </a>
@@ -83,7 +87,6 @@ to create a simple yet effective platform for sharing files.
 
 ### Android Development
 <p><img src="https://skillicons.dev/icons?i=androidstudio,flutter" /></p>
-<p><img src="https://www.flaticon.com/free-icon/xml_9496609?related_id=9496555&origin=search" /></p>
 
 ### Build-Tools
 <p><img src="https://skillicons.dev/icons?i=maven,gradle" /></p>
