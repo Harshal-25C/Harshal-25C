@@ -41,7 +41,7 @@
 ## 🏢 **Experience**      
 **💼 Internship — Full-Stack Java Developer**     
 **Oasis Infobyte**     
-**March 2024 – April 2024*  
+March 2024 – April 2024  
 - I built a **File Sharing Interface** project, where I applied **OOPs Concepts**, **backend development**, and **UI integration**
 to create a simple yet effective platform for sharing files.
 - **Tech Stack:** Java, Spring-Boot, JDBC, Hibernate, MySQL, HTML, CSS, JavaScript & Json
