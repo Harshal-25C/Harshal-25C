@@ -11,7 +11,7 @@
 
 - 💻 Currently working on **Java Full-Stack** and **Android-Dev** projects  
 - 🤖 Exploring **Gen AI & Agentic AI** in real products  
-- 🌱 Deepening skills in **Android-Dev**, **React.js**, **Spring-Boot** and **Cloud**  
+- 🌱 Deepening skills in **Android-Dev**, **React.js**, **Spring-Boot** and **Cloud Computing**  
 - 📫 Reach me: **[harshalchoudhary340@gmail.com](mailto:harshalchoudhary340@gmail.com)**
 
 ---
@@ -39,6 +39,33 @@
 ---
 
 ## 🏢 **Experience**      
+**IT Trainee - Full-Stack Java Development+Python Gen-AI**  
+**Capgemini**  
+December 2025 - May 2026  
+- Successfully completed Capgemini's Full Stack Java Development, Python & Generative AI training program, gaining hands-on experience in enterprise application development, cloud technologies, microservices, & DevOps practices.🎉  
+> ▶️ Technical Skills & Learning:  
+- Core Java, OOP, Collections, Java 8, Streams API, Lambda Expressions, Exception Handling, File I/O, Design Patterns, JDBC, MySQL, and DSA.
+- Spring Core, Dependency Injection (DI), IoC, Bean Lifecycle, Spring MVC, Spring AOP, Spring Boot REST APIs, Spring Data JPA, Hibernate, Spring Security, and JWT Authentication.
+- Microservices Architecture using Spring Cloud, Eureka Service Discovery, API Gateway, OpenFeign, Config Server, and Resilience4j.
+- Cloud & DevOps: AWS EC2, Docker, Kubernetes, Jenkins CI/CD, Vercel, and Netlify deployment.
+- Python fundamentals, automation concepts, and Generative AI applications.
+
+> ▶️ Projects Delivered:  
+1. [``🔹 Address Book Application``](https://github.com/Harshal-25C/AddressBookApp) – CRUD-based contact management system using Spring Boot and React.
+
+2. [``🔹 Quantity Measurement Application``](https://github.com/Harshal-25C/QuantityMeasurementApp) – Measurement conversion platform following enterprise coding standards and OOP principles.  
+
+3. [``🔹 Movie Review Service``](https://github.com/Harshal-25C/Movie-ReviewService) – Review and rating management system built with Spring Boot, JPA, and REST APIs. 
+
+4. [``🔹 MediBook (Sprint Evaluation Project)``](https://github.com/Harshal-25C/MediBook-Microservices) – Microservices-based Online Appointment Booking System with secure authentication, API Gateway, Service Discovery, Spring Boot Microservices, React frontend, and cloud deployment practices.
+
+> ▶️ Achievements:
+- 🏆 Cleared M1 Assessment (Professional Level).
+- 🏆 Cleared L1 Assessment (Adept Level).
+- 🏆 Successfully completed Learning & Development Evaluation.
+- 🏆 Successfully cleared the Business Unit Final Evaluation, demonstrating expertise in Full Stack Development, Microservices, Cloud Deployment, and Enterprise Software Architecture.
+##
+
 **💼 Internship — Full-Stack Java Developer**     
 **Oasis Infobyte**     
 March 2024 – April 2024  
