@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" /> I'm Harshal Choudhary</h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" /> I'm Harshal Choudhary👨‍💻</h1>
 
 <h3 align="center">A Final Year Computer Science & Engineering Student</h3>
 
@@ -39,7 +39,7 @@
 ---
 
 ## 🏢 **Experience**      
-**IT Trainee - Full-Stack Java Development+Python Gen-AI**  
+**👨‍💻 IT Trainee - Full-Stack Java Development+Python Gen-AI**  
 **Capgemini**  
 December 2025 - May 2026  
 - Successfully completed Capgemini's Full Stack Java Development, Python & Generative AI training program, gaining hands-on experience in enterprise application development, cloud technologies, microservices, & DevOps practices.🎉  
